@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Font</string>
+
+    <string name="sample_text">این یک متن نمونه با فونت فارسی است</string>
+</resources>
